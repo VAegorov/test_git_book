@@ -49,7 +49,7 @@ Tree::Tree()
 Tree::~Tree()
 {
 	Clear();
-	//delete head;
+	//delete head;//
 }
 
 bool Tree::Has(int key)
