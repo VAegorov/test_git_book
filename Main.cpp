@@ -58,7 +58,7 @@ int main()
 		cout << tree_1.Has(i);
 	}
 	/*Tree tree;
-	tree.Set(30, "a");
+	tree.Set(30, "a");//
 	tree.Set(20, "b");
 	tree.Set(50, "c");
 	tree.Set(15, "d");
